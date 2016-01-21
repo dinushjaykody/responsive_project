@@ -1,0 +1,41 @@
+(1)design the head section
+The metadata can be used by browsers (how to display content or reload page), search engines (keywords), or other web services.
+
+charset = "UTF-8" 
+specify the character encoding of the html page in this case "UTF-8"
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+we set the width to divice width and the zoom level to 1
+
+HTML5 declaration <!DOCTYPE HTML> 
+<meta charset="UTF-8">
+<meata name="viewport" content=" width=device-width , initial-scale = 1.0"/>
+
+(2)
+//css filies
+
+reset.css - resetting the styele of all html elements so that we can start our design from scratch.
+
+style.css - contains the css for the website
+
+lightbox.css - use to overlay images on top of the current page
+
+googlefont.css - for the fonts.
+
+(3) javascript and css files
+
+Modenizer.js - feature detection library for html5 and css3. it detect wheather the brower that your using is support the features or not.
+
+Respond.js - a script which enables responsive design in Internet Explorer and other browsers which don´t support CSS Media Queries
+
+jquery.min - to be abel to use lightbox.js we need to include jquery library
+
+
+freefixfree.js - automatically creates required freepixes
+
+jquery.slides.min.js - for the responsive image slides
+
+
+// creating the body
+
+(1) header - includes navigation and logo
